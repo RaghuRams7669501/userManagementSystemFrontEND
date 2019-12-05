@@ -1,0 +1,37 @@
+const loginWidget = {
+  userid: "USERID",
+  password: "Password",
+  password_placeHolder: "Password",
+  inputText: "inputText",
+  headerinfo:"Welcome to Scotia Online",
+  usernameorCardNumber: "Card number or username",
+  signin: "Sign in",
+  back:'Back',  
+  continue:"continue",
+  buttonname_signin:"Sign in", 
+  cancel:'cancel',
+  submit:'submit',
+  footer: "2019 Scotiabank All Rights Reserved",
+  footer_faq: "FAQ",
+  footer_legal: "Legal",
+  footer_privacy: "Privacy",
+  footer_copyright: "Copyright",
+  forgotUsername_header:'What do you need help with?',
+  forgotUsername_option1:'I forgot my Username',
+  forgotUsername_option2:'I forgot my password',
+  forgotpassword: "Forgot Password",
+  forgotUsername: "Forgot your username or password?",
+  remember_un:'Remember my card number / username ',
+
+  invalid_cred:'Check your sign-in info. Please check your card number or username or password and try again',  
+  userLocked:'Sorry, your online access is temporarily turned off.Please call us at 1-800-472-6842 and we will help you get back',
+ error_msg_uidNull:'Please enter your card number or username.',
+ errormsg_pwdNull:'Please enter your password',
+ errormsg_credNull:'Please check your card number or username or password and try again.',
+
+ serverError:'Internal Server Error.Please try Again.',
+ modal_title:'Confirm Changes',
+ modal_text:'Please Confirm/Cancel the Changes?',
+
+};
+export default loginWidget;

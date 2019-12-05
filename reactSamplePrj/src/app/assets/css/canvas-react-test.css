@@ -1,0 +1,51 @@
+html, body, #root, main {
+  height:100%;
+}
+
+.example {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+.without-container {
+  padding-right: 24px;
+  padding-left: 24px;
+}
+.content {
+  padding: 40px;
+}
+
+.background--grey {
+  background-color: lightgrey;
+}
+
+.nice-padding {
+  padding: 40px;
+}
+
+.grid {
+  color: white;
+  border: solid 1px white;
+  background-color: #757575;
+  display: block;
+  height: 30px;
+}
+
+.content {
+  display: flex;
+  /* flex-wrap: wrap; */
+  padding: 40px;
+}
+
+.content > * {
+  margin-left: 36px;
+}
+
+.width--400px {
+  width: 400px;
+}
+
+.modal__card {
+  margin-top: 100px;
+}

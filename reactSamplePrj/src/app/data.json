@@ -1,0 +1,8 @@
+{
+  "getUsers": "http://localhost:8080/user/articles",
+  "deleteUser":"http://localhost:8080/user/article/",
+"updateUser":"http://localhost:8080/user/updateUser",
+"addUser":"http://localhost:8080/user/addUser/"
+
+  
+}
